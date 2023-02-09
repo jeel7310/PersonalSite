@@ -1,0 +1,139 @@
+.top{
+    background-color: #00ADB5;
+}
+h1{
+    font-family: Brush Script MT;
+    margin-top:0px;
+    font-size:90px;
+color: #A6E3E9;
+
+}
+
+h2{
+color: #A6E3E9;
+padding-top: 30px;
+}
+
+
+h3{ 
+    color: #A6E3E9;
+    }
+.para{
+font-family: Brush Script MT;
+font-size: 40px;
+color: #A6E3E9;
+font-weight: normal;
+
+}
+.moun{
+    position: relative;
+    padding-right: 280px;
+}
+body{
+    margin:0;
+    text-align: center;
+    color: #40514E;
+}
+
+.top-c{
+    position: relative;
+    padding-top: 20px;
+    padding-left: 700px;
+}
+ 
+.bottom-c{
+    position: relative;
+    padding-right: 100px;
+    padding-bottom: 300px;
+}
+
+.img{
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+    padding-top: 25px;
+}
+
+.spn{
+    text-decoration: underline;
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.cod{
+    width: 25%;
+    float: left;
+    padding-right: 70px;
+  
+}
+
+.gam{
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+.greet{
+    padding-bottom: 30px;
+    margin: auto;
+    width: 30%;
+}
+ .sk{
+    padding-bottom: 100px;
+ }
+
+hr{
+   border: dotted grey 6px;
+   width: 6%;
+   border-bottom: none;
+} 
+
+.cnq{
+    margin: auto;
+    padding-bottom: 30px;
+    width: 30%;
+}
+.btn{
+    margin: auto;
+}
+.bton{
+    color: white;
+    background-color: #00ADB5;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.bottom-container{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+background-color: #00ADB5;
+}
+
+.copy{
+    margin-bottom: 0px;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    color: white;
+    font-size: 10px;
+}
+
+.footer-link{
+    margin: 30px;
+    color: #3ae2e7;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+button:hover{
+    color: #40514E;
+}
